@@ -1,0 +1,11 @@
+{
+  "name": "LTW2-BTCN2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "huy",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
